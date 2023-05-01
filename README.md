@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @arepitas
-- 👀 I’m interested in InfoSec, Linux, and so on...
-- 🌱 I’m currently going through the whole CompTIA Security+; hoping to get my cert
-- 💞️ Also up for working with folks
-- 📫 How to reach me ...
+- 👋 just feel free to refer to me as @arepitas
+- 👀 my vibes are InfoSec, Linux, and so on...
+- 🌱 
+- 💞️ 
 
 <!---
 arepitas/arepitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
